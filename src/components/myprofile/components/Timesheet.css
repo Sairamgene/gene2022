@@ -1,0 +1,16 @@
+.timesheet-profile .fc-toolbar-chunk {
+    display: flex !important;
+}
+.fc-event-time,
+.fc-daygrid-event-dot{
+    display : none;
+ }
+
+ .fc-day-sun { 
+background-color: rgb(241, 241, 241); 
+}
+
+.fc-day-sat { background-color: rgb(241, 241, 241); 
+  }
+
+  
